@@ -17,7 +17,7 @@ Route::get('/', function () {
     $SxGeo = new SxGeo(database_path('sypexgeo/SxGeoCity.dat'));
     $city = 'Вашем городе';
 
-    if (($ip = '113.190.242.149') && ($geo = $SxGeo->get($ip))) {
+    if (($ip = $_SERVER['REMOTE_ADDR']) && ($geo = $SxGeo->get($ip))) {
         $city = isset($geo['city']['name_ru']) ? 'городе ' . $geo['city']['name_ru'] : $city;
     }
     
