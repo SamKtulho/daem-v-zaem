@@ -20,5 +20,28 @@ Route::get('/', function () {
     if (($ip = '113.190.242.149') && ($geo = $SxGeo->get($ip))) {
         $city = isset($geo['city']['name_ru']) ? 'городе ' . $geo['city']['name_ru'] : $city;
     }
-    return view('main', ['city' => $city]);
+    
+    $links = [
+        'smsfinans' => 'http://google.com',
+        'ekapusta' => 'http://google.com',
+        'webbankir' => 'http://google.com',
+        'lime' => 'http://google.com',
+        'vivus' => 'http://google.com',
+        'moneza' => 'http://google.com',
+        'creditplus' => 'http://google.com',
+        'moneyman' => 'http://google.com',
+        'payps' => 'http://google.com',
+        'greenmoney' => 'http://google.com',
+        'zaymer' => 'http://google.com',
+        'ezaem' => 'http://google.com',
+        'creditpomojet' => 'http://google.com',
+        'smart' => 'http://google.com',
+        'joymoney' => 'http://google.com',
+        'oneclick' => 'http://google.com',
+    ];
+    
+    
+    
+    
+    return view('main', ['city' => $city, 'links' => $links]);
 });
