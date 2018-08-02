@@ -25,6 +25,7 @@
     <link rel="stylesheet" type="text/css" href="files/sendpulse-prompt.min.css" media="all">
     <link rel="stylesheet" type="text/css" href="css/app.css" media="all">
     <link rel="stylesheet" type="text/css" href="css/custom.css" media="all">
+<script charset="UTF-8" src="//cdn.sendpulse.com/9dae6d62c816560a842268bde2cd317d/js/push/8b48b02b0e73ddee16c2ba64c99e166d_1.js" async></script>
 
 </head>
 
