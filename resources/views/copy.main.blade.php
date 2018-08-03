@@ -9,6 +9,22 @@
     <meta name="description" content="Общие условия и требования к заемщику. Требования к заемщику: Возраст от 18 до 75 лет. Постоянная прописка в любом регионе РФ. Любая кредитная история.">
     <noscript><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&amp;subset=cyrillic" rel="stylesheet"></noscript>
     <link rel="shortcut icon" href="https://nalichka.su/favicon.ico" type="image/x-icon">
+    <script async="" src="files/gtm.js"></script>
+    <script type="text/javascript" async="" src="files/watch.js"></script>
+    <script type="text/javascript" async="" id="topmailru-code" src="files/code.js"></script>
+    <script async="" src="files/fbevents.js"></script><script async="" src="files/analytics.js"></script>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 801386268;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+
+    <script type="text/javascript" src="files/f.txt" async=""></script>
+
+    <noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/801386268/?guid=ON&amp;script=0"/></div></noscript>
+
 
     <link rel="stylesheet" type="text/css" href="files/sendpulse-prompt.min.css" media="all">
     <link rel="stylesheet" type="text/css" href="css/app.css" media="all">
@@ -18,6 +34,93 @@
 </head>
 
 <body data-gr-c-s-loaded="true">
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-90917101-2', 'auto');
+    ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=yk3GpMq1hxpRt8xoNzJlG0B1dSSo9DkpMi7JDC/OTB8nYYkjt1P4sZyv1u0OPIk*MgeKjMVY88As1QRUNMoZXa320gerRcIIjubnjcOihFM4JHZv91N1vwHefHwKiqQR*YiMM1QhLEE3sqK2eX4Ln7RjWn9Safw*d2JzJxoQ/gc-&pixel_id=1000071220';</script>
+<!--— Facebook Pixel Code —--><script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1677896188951749'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+                        src="https://www.facebook.com/tr?id=1677896188951749&ev=PageView&noscript=1"
+    /></noscript>
+<!--— DO NOT MODIFY —--><!--— End Facebook Pixel Code —-->
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-185782-1jn43';</script>
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2942197", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script>
+<noscript><div style="position:absolute;left:-10000px;"><img src="//top-fwz1.mail.ru/counter?id=2942197;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" /></div></noscript>
+<script type="text/javascript"> (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter41184409 = new Ya.Metrika({
+                    id:41184409,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true,
+                    params: window.yaParams||{}
+                });
+            } catch (e) {
+            }
+        });
+        var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () {
+            n.parentNode.insertBefore(s, n);
+        };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks"); </script>
+<noscript><div><img src="https://mc.yandex.ru/watch/41184409" style="position:absolute; left:-9999px;" alt=""/></div></noscript>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M7K4H2S"
+                                                                                                                                                                                                                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M7K4H2S');</script>
+<script type="text/javascript">
+    var _tmr = _tmr || [];
+    _tmr.push({
+        type: 'itemView',
+        productid: 'VALUE',
+        pagetype: 'VALUE',
+        list: 'VALUE',
+        totalvalue: 'VALUE'
+    });
+</script><script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 866151961;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script><script type="text/javascript" src="files/f.txt" async=""></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/866151961/?guid=ON&amp;script=0"/></div></noscript>
+
 
 <div id="main">
     <div class="container">
@@ -171,11 +274,18 @@
 пользователей не собираются и не хранятся. Все рекомендуемые на сайте кредитные учреждения имеют
 соответствующие лицензии. Условия неуплаты можно уточнить на сайте конкретной МФО.
 </p></span>
-        </div>
+        </div><div class="footer_r"></div><div class="clr"></div></div></footer><div class="notificate-wrapper"><div class="notice-block action-3" style="display: block;"><div class="notice-close"></div><a href="{{ $links['smsfinans'] }}" target="_blank" onclick="yaCounter41184409.reachGoal(&#39;JUMP&#39;);ga(&#39;send&#39;, &#39;event&#39;, &#39;offers&#39;, &#39;jump&#39;, &#39;MYORDER&#39;);return true;"><div class="notice-image"><img src="images/15242273695ad9dd2914dbd1.32813725.png" alt=""></div><div class="notice-data"><div class="notice-title">Займ за 5 минут!</div><div class="notice-text">До 30 000 рублей онлайн<br>решение автоматически</div></div></a></div></div><script>!function(){function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))a(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(a(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var c=document.createElement("link");c.href=o,c.rel="stylesheet",c.type="text/css",document.getElementsByTagName("head")[0].appendChild(c),document.cookie="font_css_cache"}}function a(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&amp;subset=cyrillic";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();</script><script charset="UTF-8" src="files/622b40228085ecb3dd936a1611e7c3b7_1.js" async=""></script>
 
-        <div class="footer_r"></div><div class="clr"></div></div></footer><div class="notificate-wrapper"><div class="notice-block action-3" style="display: block;"><div class="notice-close"></div><a href="{{ $links['smsfinans'] }}" target="_blank" onclick="yaCounter41184409.reachGoal(&#39;JUMP&#39;);ga(&#39;send&#39;, &#39;event&#39;, &#39;offers&#39;, &#39;jump&#39;, &#39;MYORDER&#39;);return true;"><div class="notice-image"><img src="images/15242273695ad9dd2914dbd1.32813725.png" alt=""></div><div class="notice-data"><div class="notice-title">Займ за 5 минут!</div><div class="notice-text">До 30 000 рублей онлайн<br>решение автоматически</div></div></a></div></div><script>!function(){function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))a(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(a(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var c=document.createElement("link");c.href=o,c.rel="stylesheet",c.type="text/css",document.getElementsByTagName("head")[0].appendChild(c),document.cookie="font_css_cache"}}function a(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&amp;subset=cyrillic";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();</script>
+<script async="" src="files/saved_resource"></script>
 
+<script id="xcntmyAsync" type="text/javascript">
+    (function(d){
+        var xscr = d.createElement( 'script' ); xscr.async = 1;
+        xscr.src = '//x.cnt.my/async/track/?r=' + Math.random();
+        var x = d.getElementById( 'xcntmyAsync' );
+        x.parentNode.insertBefore( xscr, x );
+    })(document);
+</script>
 
-
-
+<script src="filses/c0fd676ea292ba9e554af7f2fbb5cd59.js" defer=""></script>
 <link href="files/awesome.css" rel="stylesheet"></body></html>
