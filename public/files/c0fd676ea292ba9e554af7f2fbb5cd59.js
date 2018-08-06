@@ -696,5 +696,9 @@ function isReloadableAsset(url){for(var i=0;i<pub.reloadableScripts.length;i++){
 return false;}
 function escapeRegExp(str){return str.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g,"\\$&");}
 function getAbsoluteUrl(url){return url.charAt(0)==='/'?pub.getBaseCurrentUrl()+url:url;}
-return pub;})(window.jQuery);window.jQuery(function(){window.yii.initModule(window.yii);});;;$(document).ready(function(){console.log(' this page!!!');$('.notice-block.action-1.not-opened').each(function(key,val){$(val).slideDown();afterShow($(val));})
-$(document).on('click',function(){$('.notice-block.action-2.not-opened').each(function(key,val){$(val).slideDown();afterShow($(val));})});$(window).scroll(function(){console.log('Scrolled this page!!!');$('.notice-block.action-3.not-opened').each(function(key,val){$(val).slideDown();afterShow($(val));})});setTimeout(function(){$('.notice-block.action-4.not-opened').each(function(key,val){$(val).slideDown();afterShow($(val));})},5000);$('.notice-close').on('click',function(){var $block=$(this).parent();$block.slideUp();});});function afterShow($block){$block.removeClass('not-opened');};
+return pub;})(window.jQuery);window.jQuery(function(){window.yii.initModule(window.yii);});;;
+
+
+$(document).ready(function(){console.log(' this page!!!');$('.notice-block.action-1.not-opened').each(function(key,val){$(val).slideDown();afterShow($(val));})
+
+    $(document).on('click',function(){$('.notice-block.action-2.not-opened').each(function(key,val){$(val).slideDown();afterShow($(val));})});$(window).scroll(function(){console.log('Scrolled this page!!!');$('.notice-block.action-3.not-opened').each(function(key,val){$(val).slideDown();afterShow($(val));})});setTimeout(function(){$('.notice-block.action-4.not-opened').each(function(key,val){$(val).slideDown();afterShow($(val));})},5000);$('.notice-close').on('click',function(){var $block=$(this).parent();$block.slideUp();});});function afterShow($block){$block.removeClass('not-opened');};
