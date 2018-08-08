@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 
 <html lang="ru-RU" class="gr__nalichka_su"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link rel="manifest" href="https://nalichka.su/sp-push-manifest.json">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-param" content="_csrf-frontend">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>Быстрые займы онлайн</title>
     <meta name="description" content="Общие условия и требования к заемщику. Требования к заемщику: Возраст от 18 до 75 лет. Постоянная прописка в любом регионе РФ. Любая кредитная история.">
     <noscript><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&amp;subset=cyrillic" rel="stylesheet"></noscript>
-    <link rel="shortcut icon" href="https://nalichka.su/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="files/sendpulse-prompt.min.css" media="all">
     <link rel="stylesheet" type="text/css" href="css/app.css" media="all">
     <link rel="stylesheet" type="text/css" href="css/custom.css" media="all">
@@ -177,6 +176,21 @@
     </div>
 </footer>
 <div class="notificate-wrapper"><div class="notice-block action-3" style="display: block;"><div class="notice-close"></div><a href="{{ $links['smsfinans'] }}" target="_blank" onclick="yaCounter41184409.reachGoal(&#39;JUMP&#39;);ga(&#39;send&#39;, &#39;event&#39;, &#39;offers&#39;, &#39;jump&#39;, &#39;MYORDER&#39;);return true;"><div class="notice-image"><img src="images/15242273695ad9dd2914dbd1.32813725.png" alt=""></div><div class="notice-data"><div class="notice-title">Займ за 5 минут!</div><div class="notice-text">До 30 000 рублей онлайн<br>решение автоматически</div></div></a></div></div>
+
+
+<script src="https://www.gstatic.com/firebasejs/5.3.1/firebase.js"></script>
+<script>
+    // Initialize Firebase
+    var config = {
+        apiKey: "AIzaSyBeszeK5q7Tr-f095iuB-51VdWDP2tmdhc",
+        authDomain: "daem-v-zaem.firebaseapp.com",
+        databaseURL: "https://daem-v-zaem.firebaseio.com",
+        projectId: "daem-v-zaem",
+        storageBucket: "daem-v-zaem.appspot.com",
+        messagingSenderId: "996132608842"
+    };
+    firebase.initializeApp(config);
+</script>
 
 <script>!function(){function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))a(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(a(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var c=document.createElement("link");c.href=o,c.rel="stylesheet",c.type="text/css",document.getElementsByTagName("head")[0].appendChild(c),document.cookie="font_css_cache"}}function a(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&amp;subset=cyrillic";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();
 </script>
