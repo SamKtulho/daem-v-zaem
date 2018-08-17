@@ -209,7 +209,7 @@
         <div class="clr"></div>
     </div>
 </footer>
-<div class="notificate-wrapper hide"><div class="notice-block action-3" style="display: block;"><div class="notice-close"></div><a href="{{ $links['smsfinans'] . '&sa3=notificate' }}" target="_blank" onclick=""><div class="notice-image"><img src="images/15242273695ad9dd2914dbd1.32813725.png" alt=""></div><div class="notice-data"><div class="notice-title">Займ за 5 минут!</div><div class="notice-text">До 30 000 рублей онлайн<br>решение автоматически</div></div></a></div></div>
+<div class="notificate-wrapper"><div class="notice-block action-3" style="display: block;"><div class="notice-close"></div><a href="{{ $links['smsfinans'] . '&sa3=notificate' }}" target="_blank" onclick=""><div class="notice-image"><img src="images/15242273695ad9dd2914dbd1.32813725.png" alt=""></div><div class="notice-data"><div class="notice-title">Займ за 5 минут!</div><div class="notice-text">До 30 000 рублей онлайн<br>решение автоматически</div></div></a></div></div>
 
 
 <script src="https://www.gstatic.com/firebasejs/5.3.1/firebase.js"></script>
