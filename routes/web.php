@@ -22,7 +22,7 @@ Route::get('/', function () {
     }
     
     $links = [
-        'smsfinans' => 'https://go.cityclub.finance/click-CQK9KS2F-KHEQBB2A?bt=25&tl=1&sa' . config('app.site_name') . '&sa2=' . config('app.sub2', 'sub2'),
+        'smsfinans' => 'https://go.cityclub.finance/click-CQK9KS2F-KHEQBB2A?bt=25&tl=1&sa=' . config('app.site_name') . '&sa2=' . config('app.sub2', 'sub2'),
         'ekapusta' => 'https://go.cityclub.finance/click-CQK9KTJI-NKHQBV00?bt=25&tl=1&sa=' . config('app.site_name') . '&sa2=' . config('app.sub2', 'sub2'),
         'webbankir' => 'https://go.cityclub.finance/click-HQK9KV7D-NJFQCHA1?bt=25&tl=1&sa=' . config('app.site_name') . '&sa2=' . config('app.sub2', 'sub2'),
         'lime' => 'https://go.cityclub.finance/click-AQK9KSTA-NJFQB9GU?bt=25&tl=1&sa=' . config('app.site_name') . '&sa2=' . config('app.sub2', 'sub2'),
